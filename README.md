@@ -1,5 +1,4 @@
 # GameTestUnits - obavezno pročitati:bangbang:
-This repository is used to upload .apk and similar files containing pre-release versions of games made by the AmbitionOne dev team.
 
 Kako biste pravilno instalirali i pokrenuli aplikaciju na svom Android uređaju, potrebno je pratiti sljedeće korake:
 - __Preuzmite .apk datoteku iz repozitorija tako da__ 
