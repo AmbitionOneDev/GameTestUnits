@@ -4,7 +4,7 @@ Kako biste pravilno instalirali i pokrenuli aplikaciju na svom Android uređaju,
 - __Preuzmite .apk datoteku iz repozitorija tako da__ 
   - kliknete na mapu s imenom željene igre za preuzimanje
   - kliknete .apk datoteku
-  - s desne strane kliknite gumb _Download_
+  - kliknete na gumb _Download_
   - nakon preuzimanja započnite proces instalacije
   
 - __Instalacija__
